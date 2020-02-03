@@ -9,27 +9,27 @@ body {
 }
 
   #me2{       
-             width: 200px;
+             width: 250px;
              float: left;
              margin-right:15px;
              margin-left: 15px;
             }
 #me1{        
-             width:200px;
+             width:250px;
              float:right;
              margin-right:600px;
              margin-left:15px;
                
             }
  #gtr{      
-            width:100px;
+            width:50px;
             float:right;
             margin-right:600px;
        
             }
 
 #ctr{       
-            width:100px;
+            width:50px;
             float:right;
             margin-right:600px;
             
