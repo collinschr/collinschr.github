@@ -10,3 +10,26 @@ body {
        border-spacing: 30px;
 }
 
+  #ctr{ width: 200px;
+             float: left;
+             margin-right:15px;
+             margin-left: 15px;
+            }
+#gtr{ width:200px;
+             float:right;
+             margin-right:600px;
+             margin-left:15px;
+               
+            }
+ #me1{width:100px;
+            float:right;
+            margin-right:600px;
+       
+            }
+
+#me2{width:100px;
+            float:right;
+            margin-right:600px;
+            margin-top:10px;
+       
+            }
