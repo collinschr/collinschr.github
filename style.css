@@ -5,7 +5,7 @@ h2 {
 
 body {
       background-image: url("mybackground.jpg");
-      no-repeat;
+      background-repeat: no-repeat;
 }
 #buttons{
        border-spacing: 30px;
